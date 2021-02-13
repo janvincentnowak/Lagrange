@@ -18,10 +18,11 @@ social:
 - {icon: 'fab fa-youtube', link: 'https://www.youtube.com/user/ZypZockt'}
 - {icon: 'fab fa-github', link: 'https://github.com/janvincentnowak'}
 - {icon: 'fas fa-envelope', link: 'mailto:j.v.nowak@gmx.de'}
+- {icon: 'fab fa-instagram', link: 'mailto:j.v.nowak@gmx.de'}
 # - {icon: 'fas fa-rss-square', link: '/feed.xml'}
 
 # Customize site text
-pagination:
+pagination:w
   next_page: 'Newer'
   previous_page: 'Older'
 
