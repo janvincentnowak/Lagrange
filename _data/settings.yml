@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'Writing', path: 'menu', url: 'writing.html'}
-- {name: 'Contact', path: 'menu', url: 'contact.html'}
+- {name: 'Test1', path: 'menu', url: 'about.html'}
+- {name: 'Test2', path: 'menu', url: 'writing.html'}
+- {name: 'Test3', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
@@ -17,7 +17,7 @@ social:
 - {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/jan-vincent-nowak/'}
 - {icon: 'fab fa-youtube', link: 'https://www.youtube.com/user/ZypZockt'}
 - {icon: 'fab fa-github', link: 'https://github.com/janvincentnowak'}
-- {icon: 'fas fa-cubes', link: 'https://www.instagram.com/'}
+- {icon: 'fab fa-instagram', link: 'https://www.instagram.com/'}
 - {icon: 'fas fa-envelope', link: 'mailto:j.v.nowak@gmx.de'}
 # - {icon: 'fas fa-rss-square', link: '/feed.xml'}
 
