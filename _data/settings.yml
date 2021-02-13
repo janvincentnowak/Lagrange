@@ -15,8 +15,8 @@ menu:
 social:
 - {icon: 'github', link: 'https://www.github.com/lenpaul'}
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jan-vincent-nowak/'}
+- {icon: 'envelope', link: 'mailto:j.v.nowak@gmx.de'}
 - {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
