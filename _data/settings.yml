@@ -13,7 +13,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'youtube', link: 'https://discord.gg/KvFxPuheDH'}
+- {icon: 'discord', link: 'https://discord.gg/KvFxPuheDH'}
 - {icon: 'github', link: 'https://github.com/janvincentnowak'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/jan-vincent-nowak/'}
 - {icon: 'envelope', link: 'mailto:j.v.nowak@gmx.de'}
