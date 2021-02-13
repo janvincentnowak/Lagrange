@@ -14,10 +14,11 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'fab fa-discord', link: 'https://discord.gg/KvFxPuheDH'}
-- {icon: 'fab fa-github', link: 'https://github.com/janvincentnowak'}
 - {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/jan-vincent-nowak/'}
+- {icon: 'fab fa-github', link: 'https://github.com/janvincentnowak'}
 - {icon: 'fas fa-envelope', link: 'mailto:j.v.nowak@gmx.de'}
-- {icon: 'fas fa-rss-square', link: '/feed.xml'}
+- {icon: 'fab fa-youtube', link: 'https://www.youtube.com/user/ZypZockt'}
+# - {icon: 'fas fa-rss-square', link: '/feed.xml'}
 
 # Customize site text
 pagination:
