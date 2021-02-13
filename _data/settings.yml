@@ -17,8 +17,8 @@ social:
 - {icon: 'fab fa-linkedin', link: 'https://www.linkedin.com/in/jan-vincent-nowak/'}
 - {icon: 'fab fa-youtube', link: 'https://www.youtube.com/user/ZypZockt'}
 - {icon: 'fab fa-github', link: 'https://github.com/janvincentnowak'}
-- {icon: 'fas fa-envelope', link: 'mailto:j.v.nowak@gmx.de'}
 - {icon: 'fab fa-instagram', link: 'https://www.instagram.com/'}
+- {icon: 'fas fa-envelope', link: 'mailto:j.v.nowak@gmx.de'}
 # - {icon: 'fas fa-rss-square', link: '/feed.xml'}
 
 # Customize site text
