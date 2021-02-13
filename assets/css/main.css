@@ -531,3 +531,18 @@ th, td {
 .fa-youtube:hover {
 	color: #FF0000;
 }
+
+
+
+.fa-cubes {
+  padding: 5px;
+	-o-transition:.5s;
+  	-ms-transition:.5s;
+  	-moz-transition:.5s;
+  	-webkit-transition:.5s;
+  	transition: .5s;
+}
+
+.fa-cubes:hover {
+	color: #72173d;
+}
