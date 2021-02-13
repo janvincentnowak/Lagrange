@@ -22,7 +22,7 @@ social:
 # - {icon: 'fas fa-rss-square', link: '/feed.xml'}
 
 # Customize site text
-pagination:w
+pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
