@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vor- und Nachteile der Schweiz als deutschter Auswanderer"
+title: "Vor- und Nachteile der Schweiz"
 author: "Jan Vincent Nowak"
 categories: journal
 tags: [documentation,sample]
