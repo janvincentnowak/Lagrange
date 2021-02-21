@@ -44,6 +44,10 @@ Versteht mich nicht falsch, ich bin dankbar meine schulische Laufbahn und meine 
 
 Bei meinen vielen Besuchen in der Schweiz und den damit verbundenen Aufenthalten in und rund um Zürich kann ich bestätigen, dass die (Fahrrad-)Straßen, öffentlichen Verkehrsmittel und die Gehwege immer top ausgebaut und gepflegt sind. Das kann ich von München leider nicht behaupten. Man denke an die Hauptstraßen, wie z. B. den mittleren Ring.
 
+### Natur
+
+Jeder hat schon mal eine Reportage über die Schweiz gesehen. Dort hat man allerdings nur ein Bruchteil der wunderschönen Natur, welche die Schweiz bietet, gesehen. Bei meinen Aufenthalten habe ich bereits so viele schöne Orte, wie den 
+
 ## Kein Nachteil, kein Vorteil
 
 ### Lebenshaltung
