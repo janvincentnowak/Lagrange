@@ -4,7 +4,7 @@ title: "Vor- und Nachteile der Schweiz"
 author: "Jan Vincent Nowak"
 categories: journal
 tags: [documentation,sample]
-image: switzerland-picture.jpg
+image: pexels-gotta-be-worth-it-5210206.jpg
 ---
 
 ## Vorteile
