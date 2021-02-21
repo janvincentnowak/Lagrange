@@ -17,7 +17,7 @@ Es ist einfach unbürokratischer und somit freier. Eine große Last fällt somit
 ### Steuerliche Last und Gehälter
 
 Rechnen wir mit einem Gehalt von CHF 6000,-, als Single und in meinem Fall als 20-jähriger. Dieses Gehalt habe ich mittels des, von dem eidgenössischen Departement für Wirtschaft, Bildung und Forschung, zur Verfügung gestellten [Lohnberechnung](https://entsendung.admin.ch/Lohnrechner/lohnberechnung) ermittelt. 
-![Lohnberechnung](/assets/img/Lohn-in-der-Schweiz.png)
+![Lohnberechnung](janvincentnowak.github.io/assets/img/Lohn-in-der-Schweiz.png)
 Die Steuern wurden mit dem[schweizer Nettolohnrechner](https://www.lohncomputer.ch/) und dem [deutschen Nettolohnrechner](https://www.nettolohn.de/) berechnet. Unter Lebenshaltung sehe ich eine Mietwohnung, Verpflegung, Mobilität, ... usw. Die dort genommen Summen basieren auf meinen Einschätzungen bzw. Berechnungen.  
 
 | []() | Schweiz (Zürich) | Deutschland (München) |
