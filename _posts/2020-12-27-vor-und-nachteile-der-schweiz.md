@@ -28,6 +28,7 @@ Die Steuern wurden mit dem [schweizer Nettolohnrechner](https://www.lohncomputer
 | Gehalt | CHF 6.000,- | entspricht ca. € 5.600,- |
 | Steuern | ca. CHF 1.000,- | ca. € 2.300,- |
 | Lebenshaltung | ca. CHF 3.000,- | ca. € 2.500,- |
+| **Gesamtausgaben** | **CHF 4.000,-** | **ca. € 4.800,-** |
 
 Erschwerend kommt noch dazu, dass ein Bruttogehalt von € 5.600,- in Deutschland extrem hoch ist und erst mit sehr vielen Jahren Berufserfahrung oder nur als Unternehmer erreicht werden kann. In der Schweiz hingegen kann nach relativ kurzer Zeit und durch sehr gute Leistungen ein Gehalt von CHF 7.000,- bis sogar CHF 10.000,- erreicht werden.
 
