@@ -28,7 +28,7 @@ Die Steuern wurden mit dem [schweizer Nettolohnrechner](https://www.lohncomputer
 | Gehalt | CHF 6.000,- | entspricht ca. € 5.600,- |
 | Steuern | ca. CHF 1.000,- | ca. € 2.300,- |
 | Lebenshaltung | ca. CHF 3.000,- | ca. € 2.500,- |
-| **Gesamtausgaben** | **CHF 4.000,-** | **ca. € 4.800,-** |
+| **Gesamtausgaben** | **ca. CHF 4.000,-** | **ca. € 4.800,-** |
 | **_Sparpotenzial_** | **_CHF 2.000,-_** | **_ca. € 800,-_** |
 
 Erschwerend kommt noch dazu, dass ein Bruttogehalt von € 5.600,- in Deutschland extrem hoch ist und erst mit sehr vielen Jahren Berufserfahrung oder nur als Unternehmer erreicht werden kann. In der Schweiz hingegen kann nach relativ kurzer Zeit und durch sehr gute Leistungen ein Gehalt von CHF 7.000,- bis sogar CHF 10.000,- erreicht werden.
@@ -69,3 +69,9 @@ Jeder der ein PS-starkes Auto besitzt kennt es: Man kann auf die Autobahn und gg
 ### Familie und Kinder
 
 Für jeden jungen Menschen, der ungebunden ist und in die Schweiz kommt sind Kinder und Familie natürlich kein Problem. Aber wenn es  dann irgendwann um die Familienplanung geht, merkt man schnell, dass die Kosten hoch und die Unterstützung vom Staat gering ist. Der beste Weg wäre hier, dass der Partner ist Deutschland nah an der schweizer Grenze gemeldet ist und man selber in der Schweiz arbeitet. 
+
+# Fazit
+
+Ich habe meine Entscheidung bereits gefällt: Ich will in der Schweiz arbeiten und mir dort mein Leben aufbauen! Für eine jungen Menschen ist es, meiner Meinung nach, mit Abstand das Beste was man machen kann...
+
+#### Danke für das Lesen!
