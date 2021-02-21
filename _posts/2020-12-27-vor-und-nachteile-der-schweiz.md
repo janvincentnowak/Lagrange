@@ -72,6 +72,6 @@ Für jeden jungen Menschen, der ungebunden ist und in die Schweiz kommt sind Kin
 
 # Fazit
 
-Ich habe meine Entscheidung bereits gefällt: Ich will in der Schweiz arbeiten und mir dort mein Leben aufbauen! Für eine jungen Menschen ist es, meiner Meinung nach, mit Abstand das Beste was man machen kann...
+Ich habe meine Entscheidung bereits gefällt: Ich will in der Schweiz arbeiten und mir dort mein Leben aufbauen! Für einen jungen Menschen ist es, meiner Meinung nach, mit Abstand das Beste was man machen kann...
 
 #### Danke für das Lesen!
