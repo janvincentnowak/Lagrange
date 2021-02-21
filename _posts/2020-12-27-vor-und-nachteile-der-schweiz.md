@@ -20,8 +20,8 @@ Jeder hat schon mal eine Reportage über die Schweiz gesehen. Dort hat man aller
 ### Steuerliche Last und hohe Gehälter
 
 Rechnen wir mit einem Gehalt von CHF 6000,-, als Single und in meinem Fall als 20-jähriger. Dieses Gehalt habe ich mittels des, von dem eidgenössischen Departement für Wirtschaft, Bildung und Forschung, zur Verfügung gestellten [Lohnberechnung](https://entsendung.admin.ch/Lohnrechner/lohnberechnung) ermittelt. 
-![Lohnberechnung](https://github.com/janvincentnowak/janvincentnowak.github.io/blob/gh-pages/assets/img/Lohn-in-der-Schweiz.jpg)
-Die Steuern wurden mit dem[schweizer Nettolohnrechner](https://www.lohncomputer.ch/) und dem [deutschen Nettolohnrechner](https://www.nettolohn.de/) berechnet. Unter Lebenshaltung sehe ich eine Mietwohnung, Verpflegung, Mobilität, ... usw. Die dort genommen Summen basieren auf meinen Einschätzungen bzw. Berechnungen.  
+![Lohnberechnung](https://github.com/janvincentnowak/janvincentnowak.github.io/blob/gh-pages/assets/img/Lohn-in-der-Schweiz.jpg?raw=true)
+Die Steuern wurden mit dem [schweizer Nettolohnrechner](https://www.lohncomputer.ch/) und dem [deutschen Nettolohnrechner](https://www.nettolohn.de/) berechnet. Unter Lebenshaltung sehe ich eine Mietwohnung, Verpflegung, Mobilität, ... usw. Die dort genommen Summen basieren auf meinen Einschätzungen bzw. Berechnungen.  
 
 | []() | Schweiz (Zürich) | Deutschland (München) |
 | - | - | -|
@@ -62,7 +62,7 @@ Die Zeiten von dem McFit- oder FitX-Abo für € 20,- sind vorbei. In der Schwei
 
 ### Bussgelder im Straßenverkehr
 
-Jeder der ein PS-starkes Auto besitzt kennt es: Man kann auf die Autobahn und ggf. das Auto ausfahren, wie man lustig ist. Doch in der Schweiz sind die Bussen so hoch, dass man sich zwei Mal überlegt ob man zu schnell fahren will. 120 km/h auf der schweizer Autobahn kann auch entspannend und entschleunigend für den Alltag sein, besonders, wenn man durch die wunderschönen Landschaften der Schweiz fährt. Der [deutsche Bussgeldkatalog](https://www.adac.de/verkehr/recht/bussgeld-punkte/bussgeldrechner/) ist ein Witz im Vergleich zum [schweizer Bußgeldkatalog](https://www.ch.ch/de/geschwindigkeitsueberschreitungen/). Ein Vergleich: Um 16-20 km/h innerorts zu schnell sind in Deutschland € 35,- und in der Schweiz eine Anzeige
+Jeder der ein PS-starkes Auto besitzt kennt es: Man kann auf die Autobahn und ggf. das Auto ausfahren, wie man lustig ist. Doch in der Schweiz sind die Bussen so hoch, dass man sich zwei Mal überlegt ob man zu schnell fahren will. 120 km/h auf der schweizer Autobahn kann auch entspannend und entschleunigend für den Alltag sein, besonders, wenn man durch die wunderschönen Landschaften der Schweiz fährt. Der [deutsche Bussgeldkatalog](https://www.adac.de/verkehr/recht/bussgeld-punkte/bussgeldrechner/) ist ein Witz im Vergleich zum [schweizer Bußgeldkatalog](https://www.ch.ch/de/geschwindigkeitsueberschreitungen/). Ein Vergleich: Um 16-20 km/h innerorts zu schnell sind in Deutschland € 35,- und in der Schweiz eine Anzeige, welche gut und gerne mal eine Strafe von CHF 1000,- mit sich bringt.
 
 ### Familie und Kinder
 
